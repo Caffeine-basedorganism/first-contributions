@@ -9,6 +9,7 @@
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Noel](https://github.com/joyles28) **+1**
 - Ruchitankshi
+- [Kuzey Görgülü](https://github.com/KuzeyGorgulu)**Hey! Kuzey Görgülü from Turkey! A good way to start my career, huh?**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
 - [M3XH4](https://github.com/M3XH4) **Hello, I'm Sean From Philippines**
@@ -1005,6 +1006,7 @@ Abhinav Jain
 - [Yogesh Khutwad](https://github.com/YogeshK34)
 - [mary](https://github.com/mary)
 - [Khin Myat Myat Thein](https://github.com/khinmyat29)
+- [Sajini Weerasinghe](https://github.com/SajiniWeerasinghe)
 - [James Olsen](https://github.com/olsenjames1116)
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
@@ -3699,6 +3701,7 @@ Dante Sanchez
 - [Kundan Kumar](https://github.com/kundank02)
 - [matthew]
 - [SilencioPz](https://github.com/SilencioPz)
+- [Samuel Church](https://github.com/samdcchurch)
 - [mkeithx](https://github.com/mkeithX)
 - [MertKy](https://github.com/MertKy/)
 - [ArcXeon](https://github.com/ArcXeon/)
@@ -3929,6 +3932,7 @@ Philip Ambattu
 - [Prabel](https://github.com/HiPrabel)
 - [Aryan Mahida](https://github.com/aryan083)
 - [Vetle HJ](https://github.com/VetleHJ)
+- [Niranjan A S](https://github.com/Niranjan-A-S)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
@@ -5842,3 +5846,4 @@ Hector
 - [huynhhit92](https://github.com/huynhsx) **Hi there!**
 - [gmpy99] (https://github.com/gmpy99) *Hi*
 - [Rapphy243](https://github.com/rapphy243) :wave:
+- [Juandent] (https://github.com/juandent/first-contributions) Hello!
